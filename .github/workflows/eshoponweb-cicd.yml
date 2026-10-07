@@ -9,7 +9,7 @@ env:
   LOCATION: westus3
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 621e2594-c71a-4321-819b-70a70530dd8e
-  WEBAPP-NAME: Pre-Prod-Ehosp-Web-App
+  WEBAPP-NAME: axaday2testgitwebapp
 
 jobs:
   #Build, test and publish .net web project in repository
